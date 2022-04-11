@@ -1,3 +1,3 @@
 # Free PDF Books
 
-This repository will be a collection of books in PDF format.
+This repository will is a collection of books in PDF format.
